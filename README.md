@@ -22,6 +22,8 @@ Listi linija također prikazuje i jedinstvene brojeve linija.
 
 Podatke za linije i detalje dohvatiti sa
 [https://limitless-chamber-46546.herokuapp.com/]
+Na linku su navedene i putanje za linije i detalje.
+
 U Vuex store spremite dohvaćene podatke i koristite u komponentama.
 Tip - dohvaćene podatke možete struktuirati, preformatirati, parsirati kako vam najbolje odgovara za implementaciju aplikacije.
 
