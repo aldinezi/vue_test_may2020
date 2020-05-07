@@ -16,6 +16,8 @@ Napravite Vue.js aplikaciju koja će sadržati 3 osnovne komponente:
 
 > **Lines komponenta** - komponenta prikazuje listu autobusnih  linija, koje su prethodno dohvaćene i spremljene u store. Klikom na jednu od linija iz liste, naziv linije mora biti označen svijetlo plavom pozadinom i bijelim slovima, a detalji linije prikazani u sljedećoj komponenti.
 Listi linija također prikazuje i jedinstvene brojeve linija.
+
+
 > **Details komponenta** - komponenta prikazuje detalje linije, sve satnice polazaka autobusa uredno prikazane.
 
 Podatke za linije i detalje dohvatiti sa
