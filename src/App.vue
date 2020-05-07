@@ -1,5 +1,8 @@
 <template>
   <div id="app">
+    <h3>Vue test, May 2020 - Spark - {{imeiprezime}}</h3>
+    <hr />
+    <!-- Ispod ove linije implmentirajte vaše rješenje -->
   </div>
 </template>
 
@@ -7,6 +10,11 @@
 
 export default {
   name: 'App',
+  data() {
+    return {
+      imeiprezime: 'unesite vaše ime i prezime',
+    };
+  },
   components: {
   },
 };
